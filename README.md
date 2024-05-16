@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://Fouz132.github.io/React_Portfolio/" target="_blank">Fouziya.tech</a>
+  <a href="https://Fouz132.github.io/Portfolio/" target="_blank">Fouziya.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/screen.png" />
@@ -20,9 +20,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/Fouz132/React_Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://Fouz132.github.io/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/Fouz132/React_Portfolio/issues">Request Feature</a>
+    <a href="https://Fouz132.github.io/Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
@@ -31,7 +31,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://Fouz132.github.io/React_Portfolio/" target="_blank">Fouziya.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://Fouz132.github.io/Portfolio/" target="_blank">Fouziya.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
